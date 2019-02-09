@@ -2,9 +2,6 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## Unreleased
-- Append folder element in gamestation-next
-
 ## [1.0.0]
 - Added theme music and fx to gamestation
 - Added a default theme to gamestation
